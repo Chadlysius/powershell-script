@@ -15,7 +15,14 @@ Delete.ps1
 
 
 
+
+
 osu!.ps1
-![osu](https://user-images.githubusercontent.com/108415154/197348985-ed3e014a-dfc3-4224-9e61-dc29b896a0b1.mp4)
+
+
+
+https://user-images.githubusercontent.com/108415154/197349572-2c5bd943-26a2-4027-b32b-b48ad5e8e803.mp4
+
+
 
 - A PowerShell(7.2, doesn't work on 5.x) script that gets the mp3 of every map in osu! and correctly renames it because most mp3s are named audio.mp3
