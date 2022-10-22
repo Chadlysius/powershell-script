@@ -1,5 +1,5 @@
 # powershell-script
-My PowerShell Script
+My PowerShell Script - just trying things!
 
 Rename.ps1
 
@@ -14,9 +14,6 @@ Delete.ps1
 
 
 
-
-
-
 osu!.ps1
 
 
@@ -25,4 +22,4 @@ https://user-images.githubusercontent.com/108415154/197349572-2c5bd943-26a2-4027
 
 
 
-- A PowerShell(7.2, doesn't work on 5.x) script that gets the mp3 of every map in osu! and correctly renames it because most mp3s are named audio.mp3
+- A PowerShell(doesn't work on 5.x) script that gets the mp3 of every map in osu! and correctly renames it because most mp3s are named audio.mp3
